@@ -1,0 +1,9 @@
+.dash-item {
+    border-bottom: #CCC 1px solid;
+    padding:2px;
+}
+
+.dash-item-icon {
+    width: 30px;
+    margin-right: 10px;
+}
